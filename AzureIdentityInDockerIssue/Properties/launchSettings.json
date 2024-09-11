@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AzureIdentityInDockerIssue": {
+      "commandName": "Project"
+    },
+    "SDK Container": {
+      "commandName": "SdkContainer"
+    }
+  }
+}

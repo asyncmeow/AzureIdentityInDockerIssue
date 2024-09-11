@@ -1,0 +1,1 @@
+To reproduce the issue, run the application both outside (with the launch profile "AzureIdentityInDockerIssue") and inside (with the launch profile "SDK Container") the container. Outside the container, a token is fetched successfully, but inside the container it is not.
